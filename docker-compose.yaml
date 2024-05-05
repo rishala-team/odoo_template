@@ -8,6 +8,7 @@ services:
       - postgres
     ports:
       - "8069:8069"
+      - "20016:8072" # port for live chat
     volumes:
       - data:/var/lib/odoo
       - ./odoo.conf:/etc/odoo/odoo.conf
