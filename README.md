@@ -1,5 +1,5 @@
 # Don't want to lose ur main memory for odoo, but u wanna use it?
-Don't understand odoo templates? can not install odoo in windows???
+
 ## USE OUR TEMPLATE!!!
 
 ## Usage:
